@@ -2,6 +2,7 @@
 #ifndef CHARRANGE_H
 #define CHARRANGE_H
 
+// Define Class
 class CharRange
 {
 	private:
